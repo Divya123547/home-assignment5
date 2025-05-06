@@ -1,4 +1,4 @@
-# Student name - Jayadev Goskula (700757314)
+# Student name - Sai Divya Katakamsetty (700766154)
 
 ## Question 1
 
