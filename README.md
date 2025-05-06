@@ -1,5 +1,4 @@
-# home-assignment5
-Student name - Jayadev Goskula (700757314)
+Student name - Sai Divya Katakamsetty (700766154)
 Question 1
 A GAN (Generative Adversarial Network) is a type of neural network that can create realistic fake data, such as:
 
